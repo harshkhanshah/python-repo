@@ -1,0 +1,11 @@
+problem :
+ Write a Python Program to find the area of a rectangle using
+Python Classes.
+
+solution :
+1. take a value of length from user.
+2. create a class.
+3. create method as area and return are of the class.
+4. create an object for the class.
+5. using object, call the method area() with the values as the legth and breadth.
+6. print the area.
